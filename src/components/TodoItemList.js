@@ -33,7 +33,7 @@ class TodoItemList extends Component {
         <TodoItem VMName={data[3].VMName} VMID={data[3].VMID} isPoweredOn={data[3].isPoweredOn} />
         <TodoItem VMName={data[4].VMName} VMID={data[4].VMID} isPoweredOn={data[4].isPoweredOn} />
         <div style={{fontWeight:"lighter", textAlign:"center", color: "#868e96", padding:"15px"}}>
-          You need to log in to see the status.
+          You need to log in to see more details
         </div>
       </div>
     );
