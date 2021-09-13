@@ -1,0 +1,38 @@
+.todo-item {
+    padding: 0.3rem;
+    display: flex;
+    align-items: center; /* 세로 가운데 정렬 */
+    cursor: pointer;
+    transition: all 0.15s;
+    user-select: none;
+    height:70px;
+  }
+  
+  .todo-item:hover {
+    background: #FFFFFF;
+  }
+  
+  .left {
+    float:left; 
+  }
+  .left-2 {
+    float:left; width:600px; 
+  }
+
+  .right_circle {
+    float:right; text-align: right; width:10px; height:10px;
+    border-radius: 50%; 
+  }  
+  
+  a:link {
+    color : #212121;
+  }
+  a:visited {
+    color : #212121;
+  }
+  a:hover {
+    color : #616161;
+  }
+  a:active {
+    color : #212121
+  }

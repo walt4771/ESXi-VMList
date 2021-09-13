@@ -1,0 +1,27 @@
+
+[{
+    "VMID": "11",
+    "VMName": "Guacamole_Server",
+    "isPoweredOn": "Powered on"
+},
+{
+    "VMID": "13",
+    "VMName": "Windows10_Guest",
+    "isPoweredOn": "Powered on"
+},
+{
+    "VMID": "15",
+    "VMName": "Android_x86",
+    "isPoweredOn": "Powered off"
+},
+{
+    "VMID": "8",
+    "VMName": "Synology",
+    "isPoweredOn": "Powered on"
+},
+{
+    "VMID": "9",
+    "VMName": "Windows10_VM",
+    "isPoweredOn": "Powered on"
+}
+]
