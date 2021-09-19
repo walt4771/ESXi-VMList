@@ -1,7 +1,8 @@
-1. update json file(python) 
+1. update json file via python 
 2. refresh react web
-3. maybe works
 
-Preview
-![sshot](https://github.com/walt4771/ESXi-VMList_React/blob/main/preview_210912.PNG)
+vmList-updater preview
+![sshot](https://github.com/walt4771/ESXi-VMList_React/blob/main/preview-vmList-updater.PNG)
 
+vmList-server_react preview
+![sshot](https://github.com/walt4771/ESXi-VMList_React/blob/main/preview-vmList-server_react.png)
