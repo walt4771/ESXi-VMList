@@ -38,6 +38,13 @@ I'm developing the update button on the web page.
 |`isPoweredOn`	|is VM Powered on (string)
 
 
+# Changelogs
+### v.210929
+- add window drag
+- add window close button
+- minor layout fix on Linux
+
+
 # References
 
 [Powering on a virtual machine from the command line when the host cannot be managed using vSphere Client](https://kb.vmware.com/s/article/1038043)
