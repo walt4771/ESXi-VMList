@@ -8,7 +8,8 @@ I'm developing the update button on the web page.
 
 - refresh react web
 
-<br>
+<br><br>
+
 # Preview 
 
 ### vmList-updater preview  <br> ( on Ubuntu 20.04.3 ) 
@@ -17,6 +18,7 @@ I'm developing the update button on the web page.
 ### vmList-server_react preview  <br> ( Windows 10 LTSC 1809 )
 ![sshot](https://github.com/walt4771/ESXi-VMList_React/blob/main/preview-vmList-server_react.png)
 
+<br><br>
 
 # JSON File Structure
 ### LoginInfo.json
@@ -37,7 +39,8 @@ I'm developing the update button on the web page.
 |`VMName`		|ESX VM Name (string)
 |`isPoweredOn`	|is VM Powered on (string)
 
-<br>
+<br><br> 
+
 # Changelogs
 ### v.210929
 - add window drag
@@ -46,7 +49,8 @@ I'm developing the update button on the web page.
   > - `Server IP` section font size 11 -> 12
   > - all section height 30 -> 32
 
-<br><br>
+<br><br><br>
+
 # References
 
 [Powering on a virtual machine from command line](https://kb.vmware.com/s/article/1038043)
