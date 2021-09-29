@@ -32,7 +32,7 @@
       <x>10</x>
       <y>320</y>
       <width>331</width>
-      <height>214</height>
+      <height>220</height>
      </rect>
     </property>
     <layout class="QGridLayout" name="gridLayout">
@@ -41,7 +41,7 @@
        <property name="maximumSize">
         <size>
          <width>130</width>
-         <height>30</height>
+         <height>32</height>
         </size>
        </property>
        <property name="styleSheet">
@@ -56,7 +56,7 @@ border-width: 0px;</string>
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Cantarell'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Gulim'; font-size:9pt;&quot;&gt;Server IP&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Gulim'; font-size:12pt;&quot;&gt;  Server IP&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
        </property>
       </widget>
      </item>
@@ -65,7 +65,7 @@ p, li { white-space: pre-wrap; }
        <property name="maximumSize">
         <size>
          <width>130</width>
-         <height>30</height>
+         <height>32</height>
         </size>
        </property>
        <property name="styleSheet">
@@ -80,7 +80,7 @@ border-width: 0px;</string>
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Cantarell'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Gulim'; font-size:12pt;&quot;&gt;Pw&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Gulim'; font-size:12pt;&quot;&gt;  Pw&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
        </property>
       </widget>
      </item>
@@ -129,7 +129,7 @@ padding: 6px;
        <property name="maximumSize">
         <size>
          <width>250</width>
-         <height>30</height>
+         <height>32</height>
         </size>
        </property>
        <property name="styleSheet">
@@ -150,7 +150,7 @@ p, li { white-space: pre-wrap; }
        <property name="maximumSize">
         <size>
          <width>15</width>
-         <height>30</height>
+         <height>32</height>
         </size>
        </property>
        <property name="styleSheet">
@@ -174,7 +174,7 @@ p, li { white-space: pre-wrap; }
        <property name="maximumSize">
         <size>
          <width>15</width>
-         <height>30</height>
+         <height>32</height>
         </size>
        </property>
        <property name="styleSheet">
@@ -198,7 +198,7 @@ p, li { white-space: pre-wrap; }
        <property name="maximumSize">
         <size>
          <width>15</width>
-         <height>30</height>
+         <height>32</height>
         </size>
        </property>
        <property name="styleSheet">
@@ -233,7 +233,7 @@ color: white;</string>
        <property name="maximumSize">
         <size>
          <width>130</width>
-         <height>30</height>
+         <height>32</height>
         </size>
        </property>
        <property name="styleSheet">
@@ -248,7 +248,7 @@ border-width: 0px;</string>
 &lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Cantarell'; font-size:11pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Gulim'; font-size:12pt;&quot;&gt;ID&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Gulim'; font-size:12pt;&quot;&gt;  ID&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
        </property>
       </widget>
      </item>
@@ -257,7 +257,7 @@ p, li { white-space: pre-wrap; }
        <property name="maximumSize">
         <size>
          <width>250</width>
-         <height>30</height>
+         <height>32</height>
         </size>
        </property>
        <property name="styleSheet">
